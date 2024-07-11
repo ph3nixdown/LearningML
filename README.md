@@ -1,5 +1,7 @@
 This space is for learning nn machine learning using pytorch
-I think pytorch is a pthon wrapped version of LibTorch (written in C++), but not 100% sure about that
+
+I think pytorch is a python wrapped version of LibTorch (written in C++), but not 100% sure about that
+
 These programs (mostly) follow the tutorial found here: https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html?highlight=blitz
 ...with some modifications to break up things into different modules.
 
